@@ -1,18 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto:wght@700&display=swap');
+
 .App {
   text-align: center;
 }
 
-a{
-  text-decoration: none;
+p{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 3.5vh;
+  margin: 5vh auto;
 }
 
 h1{
   color:#F3EAC0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 7vh;
+  margin: 0 auto;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  margin: 0 auto;
 }
 
 @media (prefers-reduced-motion: no-preference) {
