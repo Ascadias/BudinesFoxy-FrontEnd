@@ -35,3 +35,8 @@ h2{
     margin: 0 auto;
     opacity: 0.8;
 }
+
+.Abajo:hover{
+    opacity: 0.7;
+    transition: ease all 0.5s;
+}
