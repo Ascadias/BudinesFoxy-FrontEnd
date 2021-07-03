@@ -8,9 +8,6 @@ function App() {
     <div className="App">
             <Cover/>
       <header className="App-header">
-        <div>
-
-        </div>
         <p>Aplicación web en construcción, por favor regrese luego.</p>
       </header>
 
