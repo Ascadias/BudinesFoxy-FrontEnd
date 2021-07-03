@@ -9,9 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Budines Foxy</h1>
         </div>
-
         <p>
-          <code>Aplicación web en construcción, por favor regrese luego.</code>
+          Aplicación web en construcción, por favor regrese luego.
         </p>
       </header>
     </div>
