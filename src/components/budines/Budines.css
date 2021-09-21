@@ -1,0 +1,80 @@
+header{
+    background-color: #BD97CB;
+}
+
+.Logo{
+    display: inline;
+    width: 30vh; 
+}
+
+h1{
+    color: #F3EAC0;
+    font-size: 7vh;
+}
+
+h2{
+    color: #5E376D;
+    font-size: 3.2vh;
+}
+
+h3{
+    color: #222C30;
+    font-size: 2.2vh;
+}
+
+p{
+    color: #222C30;
+    font-size: 2vh;
+}
+
+.Abajo{
+    width: 15vh;
+    margin: 0 auto;
+    opacity: 0.3;
+}
+
+.Abajo:hover{
+    opacity: 0.2;
+    transition: ease all 0.5s;
+}
+
+.Titulo{
+    background-color: #74708049;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 0;
+}
+
+.Detalles{
+    background-color: #74708049;
+    width: 90%;
+
+    position: absolute;
+    display: grid;
+    grid-template-columns: 2.5fr 4.2fr 2.5fr;
+    align-items: center;
+    top: 56vh;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.Productos{
+    width: 90%;
+    height: 15%;
+    left: 5%;
+    top: 61vh;
+    position: absolute;
+}
+
+
+.Items{
+    width: 90%;
+    display: grid;
+    height: 40%;
+    grid-template-columns: 2.5fr 8fr 2.5fr;
+    top: 68vh;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
