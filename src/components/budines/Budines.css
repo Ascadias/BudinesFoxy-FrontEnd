@@ -48,7 +48,6 @@ p {
   background-color: #74708049;
   width: 90%;
 
-  position: absolute;
   display: grid;
   grid-template-columns: 2.5fr 4.2fr 2.5fr;
   align-items: center;
