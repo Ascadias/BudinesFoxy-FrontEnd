@@ -1,0 +1,21 @@
+.footer-sns{
+    background-color: #74708049;
+    width: 100%;
+
+    position: absolute;
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.sns-links{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-decoration:none;
+}

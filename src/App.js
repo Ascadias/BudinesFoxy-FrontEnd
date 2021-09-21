@@ -1,14 +1,12 @@
+import React from 'react';
 import './App.css';
 
-import Cover from './components/cover/Cover';
+import Router from './Router'
 
 function App() {
   return (
     <div className="App">
-            <Cover/>
-      <header className="Content">
-        <p>Aplicación web en construcción, por favor regrese luego.</p>
-      </header>
+            <Router/>
     </div>
   );
 }

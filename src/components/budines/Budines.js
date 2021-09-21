@@ -9,9 +9,10 @@ const Budines = () => {
         <div className="Content">
             <header>
                 <img src={logo} className="Logo" alt="logo" />
-                <h1>Budines Foxy</h1>
+                <h1>Dulces Foxy</h1>
                 <img src={abajo} className="Abajo" alt="abajo" />
             </header>
+            
             <div className="Contenido">
                     <div className="Titulo">
                         <h2>Budines</h2>
